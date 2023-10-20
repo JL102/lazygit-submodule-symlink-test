@@ -1,0 +1,3 @@
+[submodule "submodules/lsst-submodule"]
+	path = submodules/lsst-submodule
+	url = git@github.com:JL102/lsst-submodule.git
